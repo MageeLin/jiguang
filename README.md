@@ -4,6 +4,11 @@
 
 **[主页demo入口](http://123.207.155.80/projects/jiguang/ "主页demo")**
 **[查看源码](https://github.com/MagnetLin/jiguang/tree/master/home)**
+
+| 测试用账号  | 测试用密码 |
+| ------------- | ------------- |
+| 736770223@qq.com  | 123456  |
+
 + 框架
 	+ 使用Vue、Vuex、VueRouter、axios全家桶
 	+ 前后端分离
