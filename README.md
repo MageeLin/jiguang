@@ -24,7 +24,7 @@
 	+ 成员展示
 	+ 作品展示
 	
-## CMS内容管理系统
+## CMS内容管理系统(微信小程序)
 **老域名过期，新域名还没有申请下来，由于小程序规则限制，暂时不能发布demo。**
 **[查看源码](https://github.com/MagnetLin/jiguang/tree/master/weapp)**
 + 框架
@@ -62,7 +62,7 @@
 	
 	![留言板具体内容](https://raw.githubusercontent.com/MagnetLin/jiguang/master/weappDemoImg/%E7%95%99%E8%A8%80%E6%9D%BF%E5%85%B7%E4%BD%93%E5%86%85%E5%AE%B9.png "留言板具体内容")
 	
-## 后端API接口（主页和小程序共用一套）
+## 后端接口（主页和小程序共用一套API）
 **[查看源码](https://github.com/MagnetLin/jiguang/tree/master/server)**
 + 框架
 	+ Express后端框架
