@@ -34,7 +34,11 @@
     + UI：[mp-weui](https://github.com/youngluo/mp-weui),与微信界面样式更加统一
 + 功能
     + 登录（账号密码或cookies）
+	
+	![登录](https://raw.githubusercontent.com/MagnetLin/jiguang/master/weappDemoImg/%E7%99%BB%E5%BD%95.png "登录")
     + 服务器信息
+	
+	![服务器状态](https://raw.githubusercontent.com/MagnetLin/jiguang/master/weappDemoImg/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8A%B6%E6%80%81.png "服务器状态")
 	+ 主页内容修改
 	+ 富文本编辑器
 		+魔改了[miniapp-editor](https://github.com/xbhub/miniapp-editor)插件，将小程序插件修改为vue插件，更正了原插件样式和逻辑bug，并push给了原作者
