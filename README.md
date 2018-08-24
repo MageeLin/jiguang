@@ -21,7 +21,7 @@
     + UI：[Bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue/)
     + 自适应
     + 滚动监听
-		+ 修改了[vue-scrollwatch](https://github.com/Desdesdesgo/vue-scrollwatch)插件，使不同组件间也能进行滚动监听，并push给了原作者
+		+ 修改了[vue-scrollwatch](https://github.com/Desdesdesgo/vue-scrollwatch)插件，使不同组件间也能进行滚动监听，并PR给了原作者
 	+ 轮播图
 	+ 弹出遮罩
 	+ toptip
@@ -56,7 +56,7 @@
 	![主页内容修改](https://raw.githubusercontent.com/MagnetLin/jiguang/master/weappDemoImg/%E4%B8%BB%E9%A1%B5%E5%86%85%E5%AE%B9%E4%BF%AE%E6%94%B9.png "主页内容修改")
 	
 	+ ### 富文本编辑器
-		+魔改了[miniapp-editor](https://github.com/xbhub/miniapp-editor)插件，将小程序插件修改为vue插件，更正了原插件样式和逻辑bug，并push给了原作者
+		+魔改了[miniapp-editor](https://github.com/xbhub/miniapp-editor)插件，将小程序插件修改为vue插件，更正了原插件样式和逻辑bug，并PR给了原作者
 		
 		![文章上传](https://raw.githubusercontent.com/MagnetLin/jiguang/master/weappDemoImg/%E6%96%87%E7%AB%A0%E4%B8%8A%E4%BC%A0.png "文章上传")
 		
