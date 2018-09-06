@@ -3,6 +3,7 @@
 ## 主页（响应式）
 
 **[主页demo入口](http://123.207.155.80/projects/jiguang/ "主页demo")**
+
 **[查看源码](https://github.com/MagnetLin/jiguang/tree/master/home)**
 
 | 测试用账号  | 测试用密码 |
@@ -35,7 +36,9 @@
 	+ 作品展示
 	
 ## CMS内容管理系统(微信小程序)
+
 **新域名已申请成功，小程序也通过审核，微信小程序demo如下。**
+
 ![小程序](https://raw.githubusercontent.com/MagnetLin/jiguang/master/weappDemoImg/%E9%85%8D%E5%A5%97%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%8C%E7%BB%B4%E7%A0%81.png "小程序")
 
 **[查看源码](https://github.com/MagnetLin/jiguang/tree/master/weapp)**
